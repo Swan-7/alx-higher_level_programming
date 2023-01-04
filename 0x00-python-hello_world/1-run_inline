@@ -1,1 +1,2 @@
-VimCrypt~03! ³{ŒÉN3çážvÈ˜¶€©gð	Úü¹	‘¬=þ_Ch¾d›ÅšÛô×9ø¾
+#!/bin/bash
+python3 -c "$PYCODE"
